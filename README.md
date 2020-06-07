@@ -1,6 +1,6 @@
 # TAVA
 
-[T]elegram [A]ccount [VA]lid checker
+Telegram account valid checker
 
 ## Installation
 
@@ -41,7 +41,7 @@ chmod +x tava
 
 ## Todos
 
-- [ ] Fixed not valid data when connection not stable internet
+- [ ] Fixed not valid result when connection not stable internet
 
 
 ## LICENSE
