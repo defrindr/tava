@@ -41,7 +41,7 @@ chmod +x tava
 
 ## Todos
 
-- [ ] Fixed not valid result when connection not stable internet
+- [ ] Fixed not valid result when connection not stable
 
 
 ## LICENSE
